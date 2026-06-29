@@ -12,11 +12,11 @@ This repository contains my LeetCode solutions organized by topic.
 
 | Topic | Solved |
 |--------|--------|
-| Arrays | 0 |
+| Arrays | 1 |
 | Binary Search | 0 |
 | Dynamic Programming | 0 |
 | Graphs | 0 |
-| Hash Map | 0 |
+| Hash Table | 1 |
 | Linked List | 0 |
 | Queue | 0 |
 | Stack | 0 |
