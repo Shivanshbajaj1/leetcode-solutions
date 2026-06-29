@@ -24,7 +24,7 @@ This repository contains my LeetCode solutions organized by topic.
 | Trees | 0 |
 | Two Pointers | 0 |
 
-**Total Solved:** 0
+**Total Solved:** 9
 
 ---
 
