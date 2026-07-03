@@ -67,6 +67,7 @@ TwoPointers/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -76,8 +77,13 @@ TwoPointers/
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
