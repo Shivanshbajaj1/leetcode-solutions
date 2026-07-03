@@ -64,6 +64,7 @@ TwoPointers/
 | ------- |
 | [0001-two-sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,12 @@ TwoPointers/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
