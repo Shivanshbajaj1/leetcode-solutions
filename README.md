@@ -66,11 +66,13 @@ TwoPointers/
 | [0014-longest-common-prefix](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -104,6 +106,7 @@ TwoPointers/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
