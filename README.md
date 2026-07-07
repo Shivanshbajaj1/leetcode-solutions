@@ -67,6 +67,7 @@ TwoPointers/
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ TwoPointers/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
