@@ -65,6 +65,7 @@ TwoPointers/
 | [0001-two-sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -109,12 +110,14 @@ TwoPointers/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0242-valid-anagram) |
