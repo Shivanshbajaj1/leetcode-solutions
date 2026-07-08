@@ -2,7 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange)
-![Problems Solved](https://img.shields.io/badge/Problems-0-success)
+![Problems Solved](https://img.shields.io/badge/Problems-17-success)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 This repository contains my LeetCode solutions organized by topic.
 
@@ -151,3 +153,38 @@ TwoPointers/
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
+
+---
+
+## 🚀 Roadmap
+
+### ✅ Completed
+- Organized solutions by primary topic
+- Structured repository for easy navigation
+- Added progress tracking
+- Automated topic organization script
+
+### 🔄 In Progress
+- Automatically update README after every new solution
+- Automatically organize new problems into topic folders
+- Improve repository statistics
+
+### 📌 Planned
+- 🤖 GitHub Actions for automatic updates
+- 📊 Easy / Medium / Hard statistics
+- 📈 Progress bar towards 300+ problems
+- 🔥 Daily solving streak tracker
+- 🌐 LeetCode GraphQL API integration (no manual topic mapping)
+- 📅 Last updated timestamp
+- 🏆 Milestone badges (50, 100, 200, 300+ problems)
+
+---
+
+## 🤝 Contributions
+
+This repository is primarily for personal learning and interview preparation.
+Suggestions for improving the automation and repository structure are always welcome.
+
+---
+
+## ⭐ If you find this repository helpful, consider giving it a star!
