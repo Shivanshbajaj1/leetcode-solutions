@@ -31,20 +31,22 @@ This repository contains my LeetCode solutions organized by topic.
 
 ## 📂 Folder Structure
 
-```
-Arrays/
-BinarySearch/
-DynamicProgramming/
-Graphs/
-HashMap/
-LinkedList/
+```text
+Array/
+Binary Search/
+Dynamic Programming/
+Graph/
+Hash Table/
+Linked List/
+Math/
+Prefix Sum/
 Queue/
 Stack/
-Strings/
-Trees/
-TwoPointers/
+String/
+Tree/
+Trie/
+Two Pointers/
 ```
-
 ---
 
 ## 🎯 Goal
