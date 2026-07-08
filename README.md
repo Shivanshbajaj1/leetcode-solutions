@@ -8,27 +8,26 @@
 
 This repository contains my LeetCode solutions organized by topic.
 
----
-
 ## 📊 Progress
 
 | Topic | Solved |
-|--------|--------|
-| Arrays | 1 |
-| Binary Search | 0 |
-| Dynamic Programming | 0 |
-| Graphs | 0 |
-| Hash Table | 1 |
-| Linked List | 0 |
+|--------|--------:|
+| Array | 1 |
+| Binary Search | 2 |
+| Dynamic Programming | 1 |
+| Graph | 0 |
+| Hash Table | 5 |
+| Linked List | 1 |
+| Math | 1 |
+| Prefix Sum | 1 |
 | Queue | 0 |
-| Stack | 0 |
-| Strings | 0 |
-| Trees | 0 |
-| Two Pointers | 0 |
+| Stack | 1 |
+| String | 0 |
+| Tree | 0 |
+| Trie | 1 |
+| Two Pointers | 4 |
 
-**Total Solved:** 9
-
----
+**Total Solved:** **17**
 
 ## 📂 Folder Structure
 
