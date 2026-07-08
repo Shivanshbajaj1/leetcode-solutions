@@ -94,6 +94,7 @@ TwoPointers/
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -103,6 +104,7 @@ TwoPointers/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
