@@ -66,6 +66,7 @@ TwoPointers/
 | [0014-longest-common-prefix](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ TwoPointers/
 | ------- |
 | [0001-two-sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -111,6 +113,7 @@ TwoPointers/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -121,4 +124,12 @@ TwoPointers/
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
