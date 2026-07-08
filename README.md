@@ -68,6 +68,7 @@ TwoPointers/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +117,8 @@ TwoPointers/
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
