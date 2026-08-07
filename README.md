@@ -73,6 +73,7 @@ Two Pointers/
 | [0035-search-insert-position](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -159,6 +160,10 @@ Two Pointers/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
 
 ---
