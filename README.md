@@ -167,6 +167,10 @@ Two Pointers/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0136-single-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivanshbajaj1/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ---
